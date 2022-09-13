@@ -7,4 +7,9 @@
 * View the live feed and posts.
 * Create posts.
 
+### Tools used.
+* ReactJS
+* Firebase (Firestore and Auth)
+* Material UI
+
 #### Do check out the clone, do leave a post please! 
